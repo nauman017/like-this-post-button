@@ -21,17 +21,12 @@ The goal was to get comfortable with selecting elements, responding to clicks, a
 
 ---
 
-## 🔗 Live Demo (Optional)
-
-[Click here to view the live project](https://yourusername.github.io/like-this-post-button)
-
----
 
 ## 📁 Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (vanilla)
+- JavaScript
 
 ---
 
